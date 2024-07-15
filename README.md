@@ -1,3 +1,18 @@
+# IA says how to IA
+
+## 📒 Descrição
+Um video de 1 minuto feito com ferramentas de IA sobre como criar seu video próprio video com ferramentas de IA. Não fique confuso é simples! 🤯
+
+## 🤖 Tecnologias Utilizadas
+- ChatGpt
+- Stable Diffusion
+- Vidnoz
+## 🧐 Processo de Criação
+Comece criando seu avatar através do Stable Diffusion, [guia de como fazer](https://github.com/GHK-Eletronic/stable-diffusion-ia-ebook). Agora você já pode gerar o texto que seu avatar vai falar, cria sua conta no chatGpt e digite seu prompt, não esqueça de colocar suas especificação, neste caso "que possa ser lido em menos de 1 minuto". Por fim, você já tem tudo em mãos para fazer seu video na plataforma vidnoz, crie sua conta, faça upload do seu avatar, selecione seu idioma e voz, e cole seu texto. Fim, agora com seu avatar animado você pode colocá-lo onde quiser!
+
+## 🚀 Resultados
+Você pode ver o resultado [aqui mesmo](https://github.com/GHK-Eletronic/lab-natty-or-not/).
+
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
